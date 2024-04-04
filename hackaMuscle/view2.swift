@@ -1,9 +1,3 @@
-//
-//  view2.swift
-//  View2
-//
-//  Created by Turma02-22 on 02/02/24.
-//
 import SwiftUI
 import GIFImage
 struct view2: View {
