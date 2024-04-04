@@ -1,10 +1,3 @@
-//
-//  GlobalVariables.swift
-//  projetofinal2
-//
-//  Created by Turma02-1 on 09/02/24.
-//
-
 import Foundation
 
 class GlobalVariables: ObservableObject {
