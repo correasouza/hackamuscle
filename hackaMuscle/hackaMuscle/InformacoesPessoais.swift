@@ -1,7 +1,4 @@
-
 import SwiftUI
-
-
 
 struct NavigationBarModifier: ViewModifier {
 
